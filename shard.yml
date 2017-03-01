@@ -1,0 +1,15 @@
+name: mysync-test
+version: 0.1.0
+
+authors:
+  - Konovod <konovod@gmail.com>
+
+targets:
+  mysync-test:
+    main: src/mysync-test.cr
+
+dependencies:
+  mysync:
+    github: konovod/mysync
+
+crystal: 0.20.5

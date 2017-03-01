@@ -1,0 +1,14 @@
+version: 1.0
+shards:
+  cannon:
+    github: Papierkorb/cannon
+    version: 0.2
+
+  monocypher:
+    github: konovod/monocypher
+    commit: dd49ed4b28eaa547e740e85c7ad13595a20bb568
+
+  mysync:
+    github: konovod/mysync
+    commit: a657206efe33247b00f97abff53fdd13d15c95d1
+
